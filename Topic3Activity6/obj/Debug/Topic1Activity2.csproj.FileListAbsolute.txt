@@ -1,0 +1,11 @@
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.Form1.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.Properties.Resources.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.csproj.GenerateResource.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\bin\Debug\Topic1Activity2.exe.config
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\bin\Debug\Topic1Activity2.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\bin\Debug\Topic1Activity2.pdb
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Topic1\Topic1Activity2\obj\Debug\Topic1Activity2.pdb
