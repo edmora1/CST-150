@@ -1,0 +1,6 @@
+Text converted to lower case: once upon a time there was a very beautiful princess living in a tower
+
+First word alphabetically: a
+Last word alphabetically: was
+Longest word: beautiful
+Word with the most vowels: beautiful
