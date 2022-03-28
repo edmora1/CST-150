@@ -1,0 +1,11 @@
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\bin\Debug\Activity7.exe.config
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\bin\Debug\Activity7.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\bin\Debug\Activity7.pdb
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.Form1.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.Properties.Resources.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.csproj.GenerateResource.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\topic3\Activity7\obj\Debug\Activity7.pdb
