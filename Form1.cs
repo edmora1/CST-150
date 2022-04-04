@@ -8,35 +8,61 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Topic1Activity2
+namespace Milestone2InventoryClass
 {
+    struct Inventory
+    {
+        public string name;
+        public double cost;
+        public int qty; 
+    }
     public partial class Form1 : Form
     {
+        private List<Inventory> itemList = new List<Inventory>();
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void convertButton_Click(object sender, EventArgs e)
+        private void getData(ref Inventory inventoryItem)
         {
-            double conversionTotal;
-            double inputAge;
-            double outputAge;
+            try
+            {
+                inventoryItem.name = nameTxtBx.Text;
+                inventoryItem.cost = double.Parse(costTxtBx.Text); 
+                inventoryItem.qty = int.Parse(qtyTxtBx.Text);            
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message); 
+            }
+        }
+        private void addItemBtn_Click(object sender, EventArgs e)
+        { 
+            Inventory product = new Inventory();
+            getData(ref product);
 
-            inputAge = double.Parse(userInputBox.Text);
-            outputAge = inputAge / 12;
-            conversionTotal = outputAge;
-            outputTextBox.Text = conversionTotal.ToString();
+            itemList.Add(product);
+
+            nameTxtBx.Clear();
+            costTxtBx.Clear();
+            qtyTxtBx.Clear(); 
+
+            nameTxtBx.Focus();            
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void showBtn_Click(object sender, EventArgs e)
         {
+            string outputList;
 
-        }
+            inventoryList.Items.Clear();
 
-        private void label2_Click(object sender, EventArgs e)
-        {
+            foreach (Inventory item in itemList)
+            {
+                outputList = item.name + " " + item.cost + " " + item.qty;
 
+                inventoryList.Items.Add(outputList);
+            }
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Topic1Activity2
+namespace Milestone2InventoryClass
 {
     internal static class Program
     {
