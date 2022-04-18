@@ -1,0 +1,11 @@
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity12\TicTacToe\obj\Debug\TicTacToe.pdb
