@@ -1,0 +1,12 @@
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\bin\Debug\LuckyNumberApplication.exe.config
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\bin\Debug\LuckyNumberApplication.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\bin\Debug\LuckyNumberApplication.pdb
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.Form1.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.Form2.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.Properties.Resources.resources
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.csproj.GenerateResource.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.exe
+C:\Users\edwar\Desktop\Edward School\CST-150\Activity15\LuckyNumberApplication\obj\Debug\LuckyNumberApplication.pdb
